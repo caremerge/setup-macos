@@ -67,7 +67,7 @@ For macos 11 Big Sur or later.
   * nodejs
 
 ## Additional manual configuration required
-* Please continue with your apple silicon setup in [https://github.com/chaudhryjunaid/setup-apple-silicon-mac] if you came from there. Otherwise, please continue with the next step.
+* Please continue with your apple silicon setup in [https://github.com/caremerge/setup-apple-silicon-mac] if you came from there. Otherwise, please continue with the next step.
 * If you use vim, you will need to execute the following commands at the command-line:
   ```
   vim +PlugInstall +qall
