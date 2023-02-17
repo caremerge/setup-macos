@@ -5,7 +5,7 @@ Some shell scripts and an ansible playbook to setup macos for developers. Please
 For macos 11 Big Sur or later.
 
 ## Setting up pre-requisites
-* If you landed on this repo from [https://github.com/chaudhryjunaid/setup-apple-silicon-mac], go directly to the `Running the playbook section` and execute the playbook. Otherwise, please continue with the next step.
+* If you landed on this repo from [https://github.com/caremerge/setup-apple-silicon-mac], go directly to the `Running the playbook section` and execute the playbook. Otherwise, please continue with the next step.
 
 * Make sure you are on macos 11 Big Sur or later. A clean install is preferred.
 
@@ -32,7 +32,7 @@ For macos 11 Big Sur or later.
 * Clone this repo:
   ```
   cd ~
-  git clone https://github.com/chaudhryjunaid/setup-macos.git
+  git clone https://github.com/caremerge/setup-macos.git
   ```
 
 ## Running brew installs
